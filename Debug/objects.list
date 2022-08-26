@@ -1,0 +1,7 @@
+"./Src/gpio/0_led_toggle_on_button_press.o"
+"./Startup/startup_stm32f411vetx.o"
+"./drivers/src/stm32f411x_gpio_driver.o"
+"./drivers/src/stm32f411x_i2c_driver.o"
+"./drivers/src/stm32f411x_rcc_driver.o"
+"./drivers/src/stm32f411x_spi_driver.o"
+"./drivers/src/stm32f411x_usart_driver.o"

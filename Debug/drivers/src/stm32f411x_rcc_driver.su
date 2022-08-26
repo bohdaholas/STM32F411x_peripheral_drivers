@@ -1,0 +1,5 @@
+../drivers/src/stm32f411x_rcc_driver.c:3:10:RCC_GetSYSCLKValue	16	static
+../drivers/src/stm32f411x_rcc_driver.c:17:10:RCC_GetAHBPrescaler	32	static
+../drivers/src/stm32f411x_rcc_driver.c:28:10:RCC_GetAPBxPrescaler	24	static
+../drivers/src/stm32f411x_rcc_driver.c:39:10:RCC_GetPCLKxValue	32	static
+../drivers/src/stm32f411x_rcc_driver.c:53:10:RCC_GetPLLOutputClock	4	static
